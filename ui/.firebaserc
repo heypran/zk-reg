@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "zk-registry"
+  },
+  "targets": {
+    "zk-registry": {
+      "hosting": {
+        "zkregistry": [
+          "out"
+        ]
+      }
+    }
+  }
+}
